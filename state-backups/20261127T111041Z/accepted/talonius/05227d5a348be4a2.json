@@ -1,0 +1,126 @@
+{
+  "format": "rah/build/1",
+  "tool": "riemann-at-home 1.1.0",
+  "archive_sha256": "9631b4f020199e580ba86178cb56c6e9b09f690c2369a80dc4334aa93f49c7fc",
+  "toolchain": "leanprover/lean4:v4.33.1",
+  "mathlib_rev": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "build_folder": "/opt/riemann-at-home/lean",
+  "build_id": "05227d5a348be4a2",
+  "machine": {
+    "os": "Linux 7.3.6-2-cachyos",
+    "arch": "x86_64",
+    "cpu": "AMD Ryzen 9 9950X3D 16-Core Processor",
+    "cores": 32
+  },
+  "started": "2026-11-26T04:20:57Z",
+  "recorded": "2026-11-27T11:04:52Z",
+  "busy_seconds": 58449,
+  "modules_compiled": 153096,
+  "bitmap_b64": "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",
+  "olean_digest": "f2f6846a197c5894b4361a3cea9d32ac8f5b89e78c7bd5080083bb673ba1ec5f",
+  "whole_proof": false,
+  "axioms": null,
+  "final": false,
+  "crashes": [
+    {
+      "module": "Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.InductionEstimates.IwahoriBlocks.IwahoriCentralBorel.IndTens",
+      "code": 1,
+      "at": "2026-11-27T11:04:49Z"
+    },
+    {
+      "module": "Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.InductionEstimates.IwahoriBlocks.IwahoriCentralBorel.IndSeed",
+      "code": 1,
+      "at": "2026-11-27T11:04:49Z"
+    },
+    {
+      "module": "Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.InductionEstimates.IwahoriBlocks.IwahoriCentralBorel.SchurSm",
+      "code": 1,
+      "at": "2026-11-27T11:04:49Z"
+    },
+    {
+      "module": "Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.InductionEstimates.SplitUnramifiedInduction.PolMix",
+      "code": 1,
+      "at": "2026-11-27T11:04:49Z"
+    },
+    {
+      "module": "Development.AbelianVarietyTheory.Proofs.FoundationProofs.GaloisCocycleIntegralAfterScaling",
+      "code": 1,
+      "at": "2026-11-27T11:04:49Z"
+    },
+    {
+      "module": "Development.AbelianVarietyTheory.Proofs.FoundationProofs.NotCongruentZeroIntCastMulPrimePowStatement",
+      "code": 1,
+      "at": "2026-11-27T11:04:49Z"
+    },
+    {
+      "module": "Development.AbelianVarietyTheory.Proofs.FoundationProofs.LocalCochainsGlueGlobal",
+      "code": 1,
+      "at": "2026-11-27T11:04:49Z"
+    },
+    {
+      "module": "Development.AbelianVarietyTheory.Proofs.FoundationProofs.CupProductDualTwistIsTwoCocycleUnramified",
+      "code": 1,
+      "at": "2026-11-27T11:04:49Z"
+    },
+    {
+      "module": "Development.AbelianVarietyTheory.Proofs.FoundationProofs.CupProductCoboundaryMod",
+      "code": 1,
+      "at": "2026-11-27T11:04:49Z"
+    },
+    {
+      "module": "Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.NormLeOneOfMemCoef",
+      "code": 1,
+      "at": "2026-11-27T11:04:49Z"
+    },
+    {
+      "module": "Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.InductionEstimates.UnipotentBlockMatrices.ClosedKernelMinors.ContLv",
+      "code": 1,
+      "at": "2026-11-27T11:04:49Z"
+    },
+    {
+      "module": "Development.AbelianVarietyTheory.Proofs.FoundationProofs.ResPlaneSmulEqZero",
+      "code": 1,
+      "at": "2026-11-27T11:04:49Z"
+    },
+    {
+      "module": "Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsDivisibleChainPrimaryTorsionGroup",
+      "code": 1,
+      "at": "2026-11-27T11:04:49Z"
+    },
+    {
+      "module": "Development.AbelianVarietyTheory.Proofs.FoundationProofs.HeightCommutatorInvariance",
+      "code": 127,
+      "at": "2026-11-27T11:04:49Z"
+    },
+    {
+      "module": "Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.CoboundaryOfDualCoboundaries",
+      "code": 1,
+      "at": "2026-11-27T11:04:49Z"
+    },
+    {
+      "module": "Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.InductionEstimates.IntegralCompression.ContinuousEntryCharacters.CoefEx",
+      "code": 1,
+      "at": "2026-11-27T11:04:49Z"
+    },
+    {
+      "module": "Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.InductionEstimates.IntegralCompression.ContinuousEntryCharacters.MinSwap",
+      "code": 1,
+      "at": "2026-11-27T11:04:49Z"
+    },
+    {
+      "module": "Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsPrimePowMulDeepCongruenceLevel",
+      "code": 1,
+      "at": "2026-11-27T11:04:49Z"
+    },
+    {
+      "module": "Development.AbelianVarietyTheory.Proofs.FoundationProofs.LipschitzPadicHomOfContractionPerLevel",
+      "code": 1,
+      "at": "2026-11-27T11:04:49Z"
+    },
+    {
+      "module": "Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.InductionEstimates.IntegralCompression.ContinuousEntryCharacters.CoLaws",
+      "code": 1,
+      "at": "2026-11-27T11:04:49Z"
+    }
+  ]
+}
